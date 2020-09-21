@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Screen Title</string>
+    <string name="label_nombre_completo">Nombre Completo</string>
+    <string name="label_telefono">Telefono</string>
+    <string name="label_email">Email</string>
+    <string name="label_date_setDate">Set Date</string>
+    <string name="label_fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="label_descripcion_contacto">Descripcion Contacto</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_ok">OK</string>
+    <string name="label_next">Siguiente</string>
+    <string name="label_titulo">Confirmar Datos</string>
+    <string name="label_editar">Editar Datos</string>
+    <string name="param_nombre_completo">NombreCompleto</string>
+    <string name="param_telefono">Telefono</string>
+    <string name="param_email">Email</string>
+    <string name="param_descripcion">Descripcion</string>
+    <string name="param_day">Dia</string>
+    <string name="param_month">Mes</string>
+    <string name="param_year">Anio</string>
+    <string name="tv_label_nombre_completo">.</string>
+    <string name="tv_label_fecha_nacimiento">.</string>
+    <string name="tv_label_telefono">.</string>
+    <string name="tv_label_email">.</string>
+    <string name="tv_label_descripcion">.</string>
+</resources>

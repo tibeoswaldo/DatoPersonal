@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="top">2dp</dimen>
+    <dimen name="top_label">5dp</dimen>
+    <dimen name="top_label_title">20dp</dimen>
+    <dimen name="top_label_title_data">35dp</dimen>
+    <dimen name="text_size">20dp</dimen>
+    <integer name="edit_multiline_lines">3</integer>
+    <integer name="edit_multiline_maxLines">5</integer>
+    <integer name="edit_multiline_minLines">3</integer>
+</resources>
